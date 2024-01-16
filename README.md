@@ -30,9 +30,9 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
 
 ![XBox](https://img.shields.io/badge/XBox-107C10?style=for-the-badge&logo=xbox&logoColor=white) &nbsp;
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
-![HBO MAX](https://img.shields.io/badge/HBO%20MAX-AD29F1?style=for-the-badge&logo=hbo&logoColor=white)
-![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-3074AC?style=for-the-badge&logo=prime&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![HBO MAX](https://img.shields.io/badge/HBO%20MAX-AD29F1?style=for-the-badge&logo=hbo&logoColor=white) &nbsp;
+![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-3074AC?style=for-the-badge&logo=prime&logoColor=white) &nbsp;
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) &nbsp;
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) &nbsp;
 
 </div>
