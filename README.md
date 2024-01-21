@@ -37,7 +37,5 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
 
 </div>
 
-<a href="https://app.daily.dev/DailyDevTips">
-<img src="https://github.com/Draqun/Draqun/blob/master/devcard.svg" width="400" alt="Draqun's Dev Card"/>
-</a>
+[![Hello stranger!](devcard.svg)](https://github.com/Draqun)
 
