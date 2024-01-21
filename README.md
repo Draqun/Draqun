@@ -7,6 +7,8 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
 
 </div>
 
+
+<div align="right">
 <a href="https://api.daily.dev/get?r=Draqun" target="_blank">
   <img
     width="256"
@@ -14,15 +16,14 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
     src="https://raw.githubusercontent.com/Draqun/Draqun/devcard/devcard.svg"
   />
 </a>
+</div>
 
-<div align="center">
+<div align="left">
+
+## Socials
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-giebas-79332580/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:damian.giebas@gmail.com?subject=Hello%20there!)
-
-</div>
-
-<div align="center">
 
 ## 💻 My Tech Stack:
 
