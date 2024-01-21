@@ -36,3 +36,8 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) &nbsp;
 
 </div>
+
+<a href="https://app.daily.dev/DailyDevTips">
+<img src="https://github.com/Draqun/Draqun/blob/master/devcard.svg" width="400" alt="Draqun's Dev Card"/>
+</a>
+
