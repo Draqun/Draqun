@@ -1,8 +1,21 @@
+<div>
+
 <div align="center">
 
 [![Hello stranger!](background.gif)](https://github.com/Draqun)
 Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentre.edu.vn/pixel-art-gif-wallpaper-idrxffh4/)
 
+</div>
+
+<a href="https://api.daily.dev/get?r=Draqun" target="_blank">
+  <img
+    width="256"
+    align="right"
+    src="https://raw.githubusercontent.com/Draqun/Draqun/devcard/devcard.svg"
+  />
+</a>
+
+<div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-giebas-79332580/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:damian.giebas@gmail.com?subject=Hello%20there!)
@@ -18,7 +31,9 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
 ## 📖 Want to learn:
 [![Rust, UnrealEngine](https://skillicons.dev/icons?i=rust,unreal,godot,gcp,graphql,nix)](https://skillicons.dev)
 
+</div>
 
+&nbsp;
 ## 🏆 My Stats:
 
 <p>
@@ -36,3 +51,4 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) &nbsp;
 
 </div>
+
