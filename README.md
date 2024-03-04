@@ -23,14 +23,26 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
 ## Socials
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-giebas-79332580/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:damian.giebas@gmail.com?subject=Hello%20there!)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:damian.giebas@gmail.com?subject=Hello%20there!) &nbsp;
 
 ## 💻 My Tech Stack:
 
-[![Python, C++, Terraform, Docker, Kubernetes, Aws, Azure, Linux, Github, Gitlab, FastApi, Flask, Django](https://skillicons.dev/icons?i=python,cpp,terraform,docker,kubernetes,aws,azure,linux,github,gitlab,fastapi,flask,django)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  &nbsp;
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)  &nbsp;
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)  &nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)  &nbsp;
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)  &nbsp;
+[![Aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  &nbsp;
+[![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)  &nbsp;
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)  &nbsp;
+[![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  &nbsp;
+[![Gitlab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)  &nbsp;
+[![FastApi](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)  &nbsp;
+[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)  &nbsp;
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)  &nbsp;
 
 ## 📖 Want to learn:
-[![Rust, UnrealEngine](https://skillicons.dev/icons?i=rust,unreal,godot,gcp,graphql,nix)](https://skillicons.dev)
+[![Rust, UnrealEngine](https://skillicons.dev/icons?i=rust,unreal)](https://skillicons.dev) &nbsp;
 
 </div>
 
