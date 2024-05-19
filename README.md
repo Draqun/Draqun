@@ -7,18 +7,7 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
 
 </div>
 
-
-<div align="right">
-<a href="https://api.daily.dev/get?r=Draqun" target="_blank">
-  <img
-    width="256"
-    align="right"
-    src="https://raw.githubusercontent.com/Draqun/Draqun/devcard/devcard.svg"
-  />
-</a>
-</div>
-
-<div align="left">
+<div align="none">
 
 ## Socials
 
@@ -62,6 +51,12 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
 ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-3074AC?style=for-the-badge&logo=prime&logoColor=white) &nbsp;
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) &nbsp;
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) &nbsp;
+
+## Other
+<div align="none">
+<a href="https://app.daily.dev/draqun"><img src="https://api.daily.dev/devcards/v2/1ruCBpNQPM2jWWjvJTtzg.png?type=wide&r=cts" width="652" alt="Damian Giebas's Dev Card"/></a>
+</div>
+&nbsp;
 
 </div>
 
