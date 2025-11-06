@@ -54,7 +54,7 @@ Background GIF by quynhtran1510 from [in.cdgdbentre.edu.vn](https://in.cdgdbentr
 
 ## Other
 <div align="none">
-<a href="https://app.daily.dev/draqun"><img src="https://api.daily.dev/devcards/v2/1ruCBpNQPM2jWWjvJTtzg.png?type=wide&r=cts" width="652" alt="Damian Giebas's Dev Card"/></a>
+<a href="https://app.daily.dev/draqun"><img src="https://api.daily.dev/devcards/v2/1ruCBpNQPM2jWWjvJTtzg.png?type=wide&r=7a9" width="652" alt="Damian Giebas's Dev Card"/></a>
 </div>
 &nbsp;
 
